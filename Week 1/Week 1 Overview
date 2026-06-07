@@ -1,0 +1,163 @@
+# Summer Analytics 2026
+
+## About
+
+This repository documents my learning journey through **Summer Analytics 2026**, organized by the **Consulting & Analytics Club, IIT Guwahati**.
+
+The program focuses on building strong foundations in Data Science, Machine Learning, Python programming, data analysis, and visualization through hands-on exercises and projects.
+
+---
+
+## Week 1 Progress
+
+### Day 0 – Environment Setup
+
+Topics Covered:
+
+* Introduction to Summer Analytics 2026
+* Setting up the Data Science environment
+* Installing and configuring Anaconda
+* Working with Jupyter Notebooks
+* Introduction to Google Colab
+* Introduction to Kaggle
+
+Skills Gained:
+
+* Data science workflow setup
+* Cloud-based notebook environments
+* Managing Python packages and dependencies
+
+---
+
+### Day 1 – Python Fundamentals & Introduction to Machine Learning
+
+Topics Covered:
+
+* Python basics
+* Variables and data types
+* Operators
+* Conditional statements
+* Loops
+* Functions
+* Introduction to Machine Learning
+
+Skills Gained:
+
+* Writing basic Python programs
+* Understanding core programming concepts
+* Basic understanding of ML and its applications
+
+---
+
+### Day 2 – Python Continued & NumPy Overview
+
+Topics Covered:
+
+* Advanced Python concepts
+* Lists, tuples, dictionaries, and sets
+* NumPy fundamentals
+* Arrays and array operations
+* Mathematical computations using NumPy
+
+Skills Gained:
+
+* Efficient numerical computing
+* Data manipulation using NumPy arrays
+* Understanding vectorized operations
+
+---
+
+### Day 3 – Pandas Overview & Kaggle Micro-Courses
+
+Topics Covered:
+
+* Introduction to Pandas
+* Series and DataFrames
+* Data loading and inspection
+* Basic data manipulation
+* Kaggle Micro-Courses
+
+Skills Gained:
+
+* Working with tabular datasets
+* Data exploration and analysis
+* Applying concepts through Kaggle exercises
+
+---
+
+### Day 4 – Matplotlib & Common Machine Learning Problems
+
+Topics Covered:
+
+* Introduction to Matplotlib
+* Line plots
+* Scatter plots
+* Bar charts
+* Data visualization fundamentals
+* Overview of common Machine Learning problems
+
+Skills Gained:
+
+* Visualizing data effectively
+* Understanding problem types in ML
+* Interpreting graphical representations of datasets
+
+---
+
+### Day 5 – Seaborn & Descriptive Statistics
+
+Topics Covered:
+
+* Introduction to Seaborn
+* Statistical visualizations
+* Descriptive Statistics
+* Measures of Central Tendency
+
+  * Mean
+  * Median
+  * Mode
+* Understanding Data Distributions
+
+Skills Gained:
+
+* Creating advanced visualizations
+* Summarizing datasets using statistics
+* Interpreting trends and patterns in data
+
+---
+
+## Tools & Technologies Used
+
+* Python
+* Jupyter Notebook
+* Anaconda
+* Google Colab
+* Kaggle
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+
+---
+
+## Learning Outcomes
+
+By the end of Week 1, I gained:
+
+* A strong foundation in Python programming
+* Familiarity with the Data Science ecosystem
+* Experience working with NumPy and Pandas
+* Knowledge of data visualization techniques
+* Understanding of descriptive statistics
+* Exposure to Machine Learning fundamentals
+
+---
+
+### Program
+
+Summer Analytics 2026
+Consulting & Analytics Club, IIT Guwahati
+
+---
+
+⭐ This repository serves as a record of my learning progress throughout the Summer Analytics program.
