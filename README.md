@@ -49,12 +49,12 @@ summer-analytics-2026/
 
 ## Weekly Progress
 
-| Week   | Topics Covered                                         | Status      |
-| ------ | ------------------------------------------------------ | ----------- |
-| Week 1 | Python, NumPy, Pandas, Matplotlib, Seaborn, Statistics | ✅ Completed |
-| Week 2 | To be updated                                          | ⏳           |
-| Week 3 | To be updated                                          | ⏳           |
-| Week 4 | To be updated                                          | ⏳           |
+| Week   | Topics Covered                                                                                                   | Status      |
+| ------ | ---------------------------------------------------------------------------------------------------------------- | ----------- |
+| Week 1 | Python, NumPy, Pandas, Matplotlib, Seaborn, Statistics                                                           | ✅ Completed |
+| Week 2 |  Feature Engineering, Supervised & Unsupervised Learning, Linear Regression, Logistic Regression, Process Mining | ✅ Completed |
+| Week 3 | To be updated                                                                                                    | ⏳          |
+| Week 4 | To be updated                                                                                                    | ⏳          |
 
 ---
 
@@ -98,6 +98,16 @@ This repository aims to:
 * Seaborn Visualizations
 * Descriptive Statistics
 * Measures of Central Tendency
+
+
+### Week 2 
+
+* Applied feature engineering techniques to prepare datasets for machine learning.
+* Learned the mathematical intuition behind Linear Regression.
+* Explored Gradient Descent and Loss Functions for model optimization.
+* Implemented Linear Regression using Scikit-Learn.
+* Built my first Machine Learning classification model using Logistic Regression.
+* Gained exposure to Process Mining and Celonis.
 
 ---
 
