@@ -49,12 +49,12 @@ summer-analytics-2026/
 
 ## Weekly Progress
 
-| Week   | Topics Covered                                                                                                   | Status      |
-| ------ | ---------------------------------------------------------------------------------------------------------------- | ----------- |
-| Week 1 | Python, NumPy, Pandas, Matplotlib, Seaborn, Statistics                                                           | ✅ Completed |
-| Week 2 |  Feature Engineering, Supervised & Unsupervised Learning, Linear Regression, Logistic Regression, Process Mining | ✅ Completed |
-| Week 3 | To be updated                                                                                                    | ⏳          |
-| Week 4 | To be updated                                                                                                    | ⏳          |
+| Week   | Topics Covered                                                                                                  | Status      |
+| ------ | --------------------------------------------------------------------------------------------------------------- | ----------- |
+| Week 1 | Python, NumPy, Pandas, Matplotlib, Seaborn, Statistics                                                          | ✅ Completed |
+| Week 2 | Feature Engineering, Supervised & Unsupervised Learning, Linear Regression, Logistic Regression, Process Mining | ✅ Completed |
+| Week 3 | Bias-Variance Tradeoff, Regularization, Model Evaluation, KNN, Naive Bayes, Process Mining Fundamentals         | ✅ Completed |
+| Week 4 | To be updated                                                                                                   | ⏳           |
 
 ---
 
@@ -108,6 +108,16 @@ This repository aims to:
 * Implemented Linear Regression using Scikit-Learn.
 * Built my first Machine Learning classification model using Logistic Regression.
 * Gained exposure to Process Mining and Celonis.
+
+
+### Week 3
+* Learned how the Bias-Variance Tradeoff impacts model performance.
+* Explored L1 and L2 Regularization techniques to reduce overfitting.
+* Studied key evaluation metrics including Precision, Recall, F1-Score, ROC Curve, and AUC.
+* Implemented the K-Nearest Neighbors (KNN) classification algorithm.
+* Built classification models using Multinomial and Gaussian Naive Bayes.
+* Strengthened understanding of model evaluation and selection.
+* Explored Process Mining fundamentals and their business applications.
 
 ---
 
