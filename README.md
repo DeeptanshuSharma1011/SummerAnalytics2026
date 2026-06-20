@@ -49,12 +49,13 @@ summer-analytics-2026/
 
 ## Weekly Progress
 
-| Week   | Topics Covered                                                                                                  | Status      |
-| ------ | --------------------------------------------------------------------------------------------------------------- | ----------- |
-| Week 1 | Python, NumPy, Pandas, Matplotlib, Seaborn, Statistics                                                          | ✅ Completed |
-| Week 2 | Feature Engineering, Supervised & Unsupervised Learning, Linear Regression, Logistic Regression, Process Mining | ✅ Completed |
-| Week 3 | Bias-Variance Tradeoff, Regularization, Model Evaluation, KNN, Naive Bayes, Process Mining Fundamentals         | ✅ Completed |
-| Week 4 | To be updated                                                                                                   | ⏳           |
+| Week   | Topics Covered                                                                                                                        | Status      |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| Week 1 | Python, NumPy, Pandas, Matplotlib, Seaborn, Statistics                                                                                | ✅ Completed |
+| Week 2 | Feature Engineering, Supervised & Unsupervised Learning, Linear Regression, Logistic Regression, Process Mining                       | ✅ Completed |
+| Week 3 | Bias-Variance Tradeoff, Regularization, Model Evaluation, KNN, Naive Bayes, Support Vector Machine (SVM), Process Mining Fundamentals | ✅ Completed |
+| Week 4 | To be updated                                                                                                                         | ⏳           |
+
 
 ---
 
@@ -117,6 +118,7 @@ This repository aims to:
 * Implemented the K-Nearest Neighbors (KNN) classification algorithm.
 * Built classification models using Multinomial and Gaussian Naive Bayes.
 * Strengthened understanding of model evaluation and selection.
+* Gained an understanding of Support Vector Machines (SVM) and their role in classification tasks.
 * Explored Process Mining fundamentals and their business applications.
 
 ---
