@@ -133,19 +133,6 @@ This repository aims to:
 
 ---
 
-## Future Topics
-
-As the program progresses, this repository will include:
-
-* Advanced Statistics
-* Data Preprocessing
-* Machine Learning Algorithms
-* Model Evaluation
-* Real-World Analytics Problems
-* Projects and Assignments
-
----
-
 ## Connect With Me
 
 I am documenting my learning journey publicly and sharing progress as I continue exploring Data Science and Machine Learning.
