@@ -54,7 +54,7 @@ summer-analytics-2026/
 | Week 1 | Python, NumPy, Pandas, Matplotlib, Seaborn, Statistics                                                                                | ✅ Completed |
 | Week 2 | Feature Engineering, Supervised & Unsupervised Learning, Linear Regression, Logistic Regression, Process Mining                       | ✅ Completed |
 | Week 3 | Bias-Variance Tradeoff, Regularization, Model Evaluation, KNN, Naive Bayes, Support Vector Machine (SVM), Process Mining Fundamentals | ✅ Completed |
-| Week 4 | To be updated                                                                                                                         | ⏳           |
+| Week 4 | Cross Validation, Hyperparameter Tuning, Decision Trees, Random Forest, Ensemble Learning, Model Drift, Neural Networks               | ✅ Completed |
 
 
 ---
@@ -120,6 +120,16 @@ This repository aims to:
 * Strengthened understanding of model evaluation and selection.
 * Gained an understanding of Support Vector Machines (SVM) and their role in classification tasks.
 * Explored Process Mining fundamentals and their business applications.
+
+
+### Week 4
+* Implemented Cross Validation for robust model evaluation.
+* Learned Hyperparameter Tuning to optimize machine learning models.
+* Explored Stream Processing fundamentals for real-time analytics.
+* Built Decision Tree and Random Forest models with practical implementation.
+* Studied powerful ensemble learning algorithms including Gradient Boosting, AdaBoost, XGBoost, CatBoost, and LightGBM.
+* Learned about Model Drift and why monitoring ML models is essential in production.
+* Took the first step into Deep Learning by understanding Neural Networks.
 
 ---
 
