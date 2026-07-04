@@ -28,19 +28,18 @@ summer-analytics-2026/
 │
 ├── Week-1/
 │   ├── practice files
-│   ├── README.md
 │
 ├── Week-2/
 │   ├── practice files
-│   ├── README.md
 │
 ├── Week-3/
 │   ├── practice files
-│   ├── README.md
 │
 ├── Week-4/
 │   ├── practice files
-│   ├── README.md
+│
+├── Week-5/
+│   ├── practice files
 │
 └── README.md
 ```
@@ -55,6 +54,7 @@ summer-analytics-2026/
 | Week 2 | Feature Engineering, Supervised & Unsupervised Learning, Linear Regression, Logistic Regression, Process Mining                       | ✅ Completed |
 | Week 3 | Bias-Variance Tradeoff, Regularization, Model Evaluation, KNN, Naive Bayes, Support Vector Machine (SVM), Process Mining Fundamentals | ✅ Completed |
 | Week 4 | Cross Validation, Hyperparameter Tuning, Decision Trees, Random Forest, Ensemble Learning, Model Drift, Neural Networks               | ✅ Completed |
+| Week 5 | Neural Networks, Unsupervised Learning, K-Means, PCA, Anomaly Detection, Computer Vision, Reinforcement Learning, Transformers        | ✅ Completed |
 
 
 ---
@@ -130,6 +130,17 @@ This repository aims to:
 * Studied powerful ensemble learning algorithms including Gradient Boosting, AdaBoost, XGBoost, CatBoost, and LightGBM.
 * Learned about Model Drift and why monitoring ML models is essential in production.
 * Took the first step into Deep Learning by understanding Neural Networks.
+
+
+### Week 5
+* Built my first Neural Network from scratch for MNIST digit classification.
+* Explored Keras and the fundamentals of deep learning.
+* Learned K-Means Clustering and core concepts of Unsupervised Learning.
+* Applied PCA for dimensionality reduction and studied anomaly detection.
+* Took my first step into Computer Vision and its real-world applications.
+* Learned the fundamentals of Reinforcement Learning and reward-based learning systems.
+* Concluded the Summer Analytics journey by exploring Transformers, the foundation of today's Large Language Models.
+
 
 ---
 
