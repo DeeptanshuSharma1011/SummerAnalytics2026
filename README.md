@@ -41,6 +41,9 @@ summer-analytics-2026/
 ├── Week-5/
 │   ├── practice files
 │
+├── Additional Materials/
+│   ├── practice files
+│
 └── README.md
 ```
 
@@ -141,6 +144,9 @@ This repository aims to:
 * Learned the fundamentals of Reinforcement Learning and reward-based learning systems.
 * Concluded the Summer Analytics journey by exploring Transformers, the foundation of today's Large Language Models.
 
+### Additional Materials
+* Explored techniques for handling imbalanced datasets to build more reliable classification models.
+* Learned the fundamentals of Plotly for creating interactive and insightful data visualizations.
 
 ---
 
